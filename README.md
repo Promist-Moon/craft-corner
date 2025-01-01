@@ -1,4 +1,8 @@
-# README
+# Craft Corner
+
+Craft Corner is a web forum that targets hobbyists interested in DIY projects and crafting. In this web forum, members, after being authenticated with a username, can share their projects, seek advice, and even participate in challenges created by other hobbyists. 
+
+______________________________________
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
